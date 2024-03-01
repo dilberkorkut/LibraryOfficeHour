@@ -117,6 +117,7 @@ function Category() {
         />
         <button onClick={handleUpdate}>Update</button>
       </div>
+      
       <div className="list">
         <h2>Kategori Listesi</h2>
         {category.map((category) => (
