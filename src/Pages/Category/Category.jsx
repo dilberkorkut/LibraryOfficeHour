@@ -139,4 +139,17 @@ function Category() {
   );
 }
 
+
 export default Category;
+
+
+
+
+ {/* <select>
+  {category.map((category) => {
+    <option key={category.id} value={category.id}>
+      {category.name}
+
+    </option>
+  })}
+</select> */}
